@@ -1,7 +1,6 @@
 - Hi, I’m @Aayushi-patel1
 - I’m interested in coding and technology
 - I’m currently learning Btech computer engineering
-- I’m looking to collaborate on programming
 - How to reach me: aayushi15patel2007@gmail.com
 
 
