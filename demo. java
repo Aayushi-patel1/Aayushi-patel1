@@ -1,0 +1,7 @@
+class demo
+{
+  public static void main(Strong[] args) 
+  {
+    System.out.println("hi");
+  }
+}
